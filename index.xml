@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+<Green_Trash>
+    <waste>
+        <name>plastic</name>
+        <type>Recyclable</type>
+        <quantity>6kg</quantity>
+        <id>65056</id>
+    </waste>
+    <waste>
+        <name>glass</name>
+        <type>Recyclable</type>
+        <quantity>7kg</quantity>
+        <id>66798</id>
+    </waste>
+    <waste>
+        <name>polybag</name>
+        <type>Non-Recyclable</type>
+        <quantity>9kg</quantity>
+        <id>98765</id>
+    </waste>
+    <waste>
+        <name>vegetable_peels</name>
+        <type>Recyclable</type>
+        <quantity>8kg</quantity>
+        <id>887654</id>
+    </waste>
+    <waste>
+        <name>leaves</name>
+        <type>Recyclable</type>
+        <quantity>4kg</quantity>
+        <id>87654</id>
+    </waste>
+</Green_Trash>
